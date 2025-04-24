@@ -11,4 +11,4 @@ The NISAR Satellite launches June 2025 from Sriharikota, India.
 - [NISAR results in earthdata.nasa.gov](https://www.earthdata.nasa.gov/search?keys=NISAR)  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2AFEbG16mY4?si=fOrCzYMdR5JxWpeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Explore Earth Science With NISAR](https://www.jpl.nasa.gov/edu/resources/teachable-moment/tracking-tiny-movements-means-big-impacts-for-earth-science/)
+[Explore Earth Science with NISAR](https://www.jpl.nasa.gov/edu/resources/teachable-moment/tracking-tiny-movements-means-big-impacts-for-earth-science/)

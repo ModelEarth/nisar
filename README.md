@@ -3,7 +3,7 @@
 The NISAR Satellite launches June 2025 from Sriharikota, India.
 <!--The NASA-ISRO Synthetic Aperture Radar (NISAR) -->
 
-[JPL.NASA.gov](https://nisar.jpl.nasa.gov/) and [ISRO.gov.in](https://www.isro.gov.in/NISARSatellite.html) Synthetic Aperture Radar (NISAR) will track tiny movements in Earth's land and ice surfaces, raising awareness of the [permanent collapse of aquifers](https://www.wired.com/story/the-ongoing-collapse-of-the-worlds-aquifers/) and identifying successes [recharging groundwater](../data-commons/docs/water/).
+[JPL.NASA.gov](https://nisar.jpl.nasa.gov/) and [ISRO.gov.in](https://www.isro.gov.in/NISARSatellite.html) Synthetic Aperture Radar (NISAR) will track tiny movements in Earth's land and ice surfaces, raising awareness of the [permanent collapse of aquifers](https://www.wired.com/story/the-ongoing-collapse-of-the-worlds-aquifers/) and identifying successful [groundwater recharging](../data-commons/docs/water/).
 
 [Working with NISAR Data](https://asf.alaska.edu/working-with-nisar-sample-data/) (Alaska Satellite Facility)  
 - [Our DataViz Colab](https://colab.research.google.com/drive/1fQupj6md6EhaESmfIuWu2qrQ-TuW6-gn?usp=sharing) - Generate sample maps of soil moisture distribution

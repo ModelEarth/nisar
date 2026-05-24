@@ -1,9 +1,12 @@
 # Earth Surface Movements
 
-The NISAR Satellite launches June 2025 from Sriharikota, India.
+The NISAR Satellite launched June 2025 from Sriharikota, India.
+
+We're creating a [map of elevation changes](map), primarily caused by excessive pumping of ground water. 
+
 <!--The NASA-ISRO Synthetic Aperture Radar (NISAR) -->
 
-[jpl.NASA.gov](https://nisar.jpl.nasa.gov/) and [ISRO.gov.in](https://www.isro.gov.in/NISARSatellite.html) Synthetic Aperture Radar (NISAR) will track tiny movements in Earth's land and ice surfaces, raising awareness of the [permanent collapse of aquifers](https://www.wired.com/story/the-ongoing-collapse-of-the-worlds-aquifers/) and identifying successful [groundwater recharging](../data-commons/docs/water/).
+[jpl.NASA.gov](https://nisar.jpl.nasa.gov/) and [ISRO.gov.in](https://www.isro.gov.in/NISARSatellite.html) Synthetic Aperture Radar (NISAR) track tiny movements in Earth's land and ice surfaces, raising awareness of the [permanent collapse of aquifers](https://www.wired.com/story/the-ongoing-collapse-of-the-worlds-aquifers/) and identifying successful [groundwater recharging](../grid/water/).
 
 [Working with NISAR Data](https://asf.alaska.edu/working-with-nisar-sample-data/) (Alaska Satellite Facility)  
 - [Our DataViz Colab](https://colab.research.google.com/drive/1fQupj6md6EhaESmfIuWu2qrQ-TuW6-gn?usp=sharing) - Generate sample maps of soil moisture distribution
@@ -23,4 +26,4 @@ Connecting NISAR data to tools for analyzing earth surface movement. Objectives:
 
 3. Integration of our [trade flow data](https://Model.Earth/exiobase/tradeflow/) to create AI training for predictive analysis and impact map details.
 
-Get involved with our related [mapping project at model.earth](https://github.com/ModelEarth/projects/issues/86)
+Get involved with our [NISAR data mapping project at model.earth](https://github.com/ModelEarth/projects/issues/86)

@@ -1,14 +1,12 @@
 # Earth Surface Movements
 
-The NISAR Satellite launched June 2025 from Sriharikota, India.
-
-We're creating a [map of elevation changes](map), primarily caused by excessive pumping of ground water. 
+We're creating a [map of elevation changes](map) - primarily caused by excessive pumping of groundwater - to raise awareness of the [permanent collapse of aquifers](https://www.wired.com/story/the-ongoing-collapse-of-the-worlds-aquifers/) and identify successful [groundwater recharging solutions](../grid/water/).
 
 <!--The NASA-ISRO Synthetic Aperture Radar (NISAR) -->
 
-[jpl.NASA.gov](https://nisar.jpl.nasa.gov/) and [ISRO.gov.in](https://www.isro.gov.in/NISARSatellite.html) Synthetic Aperture Radar (NISAR) track tiny movements in Earth's land and ice surfaces, raising awareness of the [permanent collapse of aquifers](https://www.wired.com/story/the-ongoing-collapse-of-the-worlds-aquifers/) and identifying successful [groundwater recharging](../grid/water/).
+The NISAR Satellite launched June 2025 from Sriharikota. Its Synthetic Aperture Radar (NISAR) by [JPL at CalTech](https://nisar.jpl.nasa.gov/) and [ISRO in India](https://www.isro.gov.in/NISARSatellite.html) tracks tiny 1-centimeter movements in land and ice surfaces.
 
-[Working with NISAR Data](https://asf.alaska.edu/working-with-nisar-sample-data/) (Alaska Satellite Facility)  
+Here's info about [working with NISAR Data](https://asf.alaska.edu/working-with-nisar-sample-data/) from the Alaska Satellite Facility:
 - [Our DataViz Colab](https://colab.research.google.com/drive/1fQupj6md6EhaESmfIuWu2qrQ-TuW6-gn?usp=sharing) - Generate sample maps of soil moisture distribution
 - [About NISAR Sample Data](https://nisar.jpl.nasa.gov/data/sample-data/)
 - [NISAR results in earthdata.nasa.gov](https://www.earthdata.nasa.gov/search?keys=NISAR)  
@@ -22,8 +20,10 @@ Connecting NISAR data to tools for analyzing earth surface movement. Objectives:
 
 1. Fast loading map layers showing daily and seasonal earth surface movement to track aquifer depletion/replenishment and rainfall soil expansion/contraction.
 
-2.  Embeddable location filters for selecting sets of countries and states for map exporations with adjacent tabulator grids for use with machine learning models.
+2.  Embeddable location filters for selecting sets of countries and states for map explorations with adjacent tabulator grids for use with machine learning models.
 
-3. Integration of our [trade flow data](https://Model.Earth/exiobase/tradeflow/) to create AI training for predictive analysis and impact map details.
+3. Integration of our [trade flow data visualizations](../profile/charts/sankey/) to create AI training for predictive analysis and impact map details.
 
-Get involved with our [NISAR data mapping project at model.earth](https://github.com/ModelEarth/projects/issues/86)
+Get involved with our model.earth [NISAR data mapping project](https://github.com/ModelEarth/projects/issues/86)
+
+[View map of Elevation Changes](map)
